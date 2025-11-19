@@ -6,39 +6,40 @@ import { Footer } from "@/components/footer"
 import "./globals.css"
 
 const cinzelDecorative = Cinzel_Decorative({
-  weight: ["400", "700", "900"],
-  subsets: ["latin"],
-  variable: "--font-serif",
+	weight: ["400", "700", "900"],
+	subsets: ["latin"],
+	variable: "--font-serif",
 })
 
 const exo2 = Exo_2({
-  weight: ["300", "400", "500", "600", "700"],
-  subsets: ["latin"],
-  variable: "--font-sans",
+	weight: ["300", "400", "500", "600", "700"],
+	subsets: ["latin"],
+	variable: "--font-sans",
 })
 
 export const metadata: Metadata = {
-  title: "VOLTERA ⚙️ GEAR - Where Steam Meets Silicon",
-  description:
-    "A time-travel laboratory where Victorian era meets 2200s future. Premium power devices and charging technology.",
-  generator: "v0.app",
-  icons: {
-    icon: "/favicon.svg",
-  },
+	title: "VOLTERA ⚙️ GEAR - Where Steam Meets Silicon",
+	description:
+		"A time-travel laboratory where Victorian era meets 2200s future. Premium power devices and charging technology.",
+	generator: "v0.app",
+	icons: {
+		icon: "/favicon.svg",
+	},
+	referrer: 'unsafe-url'
 }
 
 export default function RootLayout({
-  children,
+	children,
 }: Readonly<{
-  children: React.ReactNode
+	children: React.ReactNode
 }>) {
-  return (
-    <html lang="en">
-      <body className={`${exo2.variable} ${cinzelDecorative.variable} font-sans antialiased`}>
-        <Header />
-        {children}
-        <Footer />
-      </body>
-    </html>
-  )
+	return (
+		<html lang="en">
+			<body className={`${exo2.variable} ${cinzelDecorative.variable} font-sans antialiased`}>
+				<Header />
+				{children}
+				<Footer />
+			</body>
+		</html>
+	)
 }
