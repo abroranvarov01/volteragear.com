@@ -13,7 +13,7 @@ const products = [
 		category: "Timepieces",
 		image: "https://m.media-amazon.com/images/I/81Y0qX4e+yL._AC_SX679_.jpg",
 		slug: "victorinox-chrono-gauge",
-		amazonLink: "https://www.amazon.com/Victorinox-Swiss-Chronograph-Stainless-Steel/dp/B0F4CGJPNV",
+		amazonLink: "https://www.amazon.ca/Victorinox-Swiss-Chronograph-Stainless-Steel/dp/B0F4CGJPNV?&linkCode=ll1&tag=volteragear-20&linkId=d7fd0e68b70e00867b51703844cbd817&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"A precision-engineered chronograph timepiece forged in the fires of Victorian innovation, blending Swiss mechanical mastery with brass-accented durability. This remarkable watch channels the spirit of industrial revolution horology while incorporating modern chronometric functions, allowing you to measure time with the accuracy of a steam-powered cogwheel assembly.",
 		features: [
@@ -36,7 +36,7 @@ const products = [
 		category: "Communication",
 		image: "https://m.media-amazon.com/images/I/51+7QKzkgSL._AC_SX679_.jpg",
 		slug: "cardo-aether-comm",
-		amazonLink: "https://www.amazon.com/Cardo-Systems-Motorcycle-Bluetooth-Communication/dp/B09MQ8HT1G",
+		amazonLink: "https://www.amazon.ca/Cardo-Systems-Motorcycle-Bluetooth-Communication/dp/B09MQ8HT1G&linkCode=ll1&tag=volteragear-20&linkId=baa5df4b14579ce6b8f02fcd8bef8fab&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"An ethereal communication helmet device inspired by Tesla's wireless experiments, encased in rugged brass-like housing. This extraordinary communicator bridges riders across vast distances using quantum-like Bluetooth mesh networks, turning every journey into a symphony of voices carried on invisible aether waves.",
 		features: [
@@ -59,7 +59,7 @@ const products = [
 		category: "Wearables",
 		image: "https://m.media-amazon.com/images/I/61JmFARdp+L._AC_SX679_.jpg",
 		slug: "articulated-voltaic-gauntlets",
-		amazonLink: "https://www.amazon.com/Medieval-Articulated-Gauntlets-Brass-Accents/dp/B06XRTWX9J",
+		amazonLink: "https://www.amazon.ca/Medieval-Articulated-Gauntlets-Brass-Accents/dp/B06XRTWX9J?&linkCode=ll1&tag=volteragear-20&linkId=d38c0496d1ea48b78088d0f2fce8c3e0&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"Medieval-inspired articulated hand armor enhanced with brass accents and electromagnetic reinforcements. These magnificent gauntlets evoke the chivalric age while providing modern protective capabilities, their jointed plates moving with the fluidity of steam-driven pistons to shield your hands in temporal battles.",
 		features: [
@@ -82,7 +82,7 @@ const products = [
 		category: "Timepieces",
 		image: "https://m.media-amazon.com/images/I/61Die3FiMLL._AC_SX679_.jpg",
 		slug: "samsung-gear-chrono-sport",
-		amazonLink: "https://www.amazon.com/Samsung-Sport-Smartwatch-Bluetooth-SM-R600NZBAXAR/dp/B075X4RQHZ",
+		amazonLink: "https://www.amazon.ca/Samsung-Sport-Smartwatch-Bluetooth-SM-R600NZBAXAR/dp/B075X4RQHZ?&linkCode=ll1&tag=volteragear-20&linkId=a0270ec58d091f6b95953b1db7a2d5a3&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"A water-resistant smart chronometer blending Victorian gear mechanisms with digital aether displays. This remarkable wrist device tracks your vital energies through all-day fitness monitoring, while its rotating bezel summons notifications from the ethereal network, all housed in a swim-ready brass-inspired casing.",
 		features: [
@@ -105,7 +105,7 @@ const products = [
 		category: "Lighting",
 		image: "https://m.media-amazon.com/images/I/61IAQUkoftL._AC_SX679_.jpg",
 		slug: "rechargeable-lumina-torch",
-		amazonLink: "https://www.amazon.com/Rechargeable-Waterproof-Flashlight-Hurricane-Emergency/dp/B09YT5D357",
+		amazonLink: "https://www.amazon.ca/Rechargeable-Waterproof-Flashlight-Hurricane-Emergency/dp/B08L65L7PW&linkCode=ll1&tag=volteragear-20&linkId=6dc0f9f3ceb234b1c83784f786ea3c2b&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"A waterproof hand-held illuminator powered by rechargeable voltaic cells, evoking the glow of gas lamps in storm-tossed adventures. This powerful lantern pierces the darkness with multiple modes, its brass-like body standing resilient against hurricanes and temporal tempests alike.",
 		features: [
@@ -128,7 +128,7 @@ const products = [
 		category: "Navigation",
 		image: "https://m.media-amazon.com/images/I/81Kb82bTy1L._AC_SX679_.jpg",
 		slug: "armarmour-temporal-compass",
-		amazonLink: "https://www.amazon.com/Sun-Company-ArmArmour-Shielded-Thermometer/dp/B06XCJSBRG",
+		amazonLink: "https://www.amazon.ca/Sun-Company-ArmArmour-Shielded-Thermometer/dp/B06XCJSBRG?&linkCode=ll1&tag=volteragear-20&linkId=14a407b933d1b453abf8756714a9b8a2&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"A wrist-mounted directional finder with thermometer, shielded in rugged brass-like armor. This ingenious device guides your path through misty moors while monitoring atmospheric pressures, its luminous dial glowing like captured moonlight in the dead of night.",
 		features: [
@@ -151,7 +151,7 @@ const products = [
 		category: "Timepieces",
 		image: "https://m.media-amazon.com/images/I/611Hm3EBxaL._AC_SY695_.jpg",
 		slug: "omega-constellation-chronometre",
-		amazonLink: "https://www.amazon.com/Omega-Constellation-Chronometer-Automatic-131-10-29-20-02-001/dp/B083WNKD6T",
+		amazonLink: "https://www.amazon.ca/Omega-Constellation-Chronometer-Automatic-131-10-29-20-02-001/dp/B083WNKD6T?&linkCode=ll1&tag=volteragear-20&linkId=d5d444dc0e055ae62f0b5f15206f4096&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"An automatic master chronometer evoking celestial mechanisms in polished steel and brass tones. This exquisite ladies' timepiece tracks the stars' eternal dance with co-axial precision, its silver dial a window to the cosmos, powered by the inexorable march of temporal gears.",
 		features: [
@@ -174,7 +174,7 @@ const products = [
 		category: "Navigation",
 		image: "https://m.media-amazon.com/images/I/61UOMYVgvWL._AC_SX679_.jpg",
 		slug: "bca-avalanche-beacon",
-		amazonLink: "https://www.amazon.com/BCA-Tracker-3/dp/B00OM1H5Z6",
+		amazonLink: "https://www.amazon.ca/BCA-Tracker-3/dp/B00OM1H5Z6?&linkCode=ll1&tag=volteragear-20&linkId=eb26a5d6e09222a6cb4f4ebb317407ab&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"A digital transceiver for locating buried companions in snowy temporal avalanches, housed in durable brass-reinforced casing. This vital device sends and receives signals through the aether, guiding rescuers with unerring accuracy through whiteout conditions and frozen timelines.",
 		features: [
@@ -197,7 +197,7 @@ const products = [
 		category: "Wearables",
 		image: "https://m.media-amazon.com/images/I/61ddH2Fur0L._AC_SX679_.jpg",
 		slug: "vr-night-vision-spectacles",
-		amazonLink: "https://www.amazon.com/GOWWPUN-Night-Vision-Goggles-Built/dp/B0DRYFYHW1",
+		amazonLink: "https://www.amazon.ca/GOWWPUN-Night-Vision-Goggles-Built/dp/B0DRYFYHW1?&linkCode=ll1&tag=volteragear-20&linkId=f6f6e6d2bf07fbd76b34dcc4e89429ed&language=en_CA&ref_=as_li_ss_tl",
 		description:
 			"Head-mounted binocular viewers piercing the veil of night with infrared illumination and 3D virtual displays. These remarkable goggles reveal hidden realms in complete darkness, their giant screen projecting 4K visions like ethereal phantoms from Victorian spirit photography.",
 		features: [
