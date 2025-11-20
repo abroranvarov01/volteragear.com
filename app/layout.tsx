@@ -38,7 +38,7 @@ export default function RootLayout({
 			<body className={`${exo2.variable} ${cinzelDecorative.variable} font-sans antialiased`}>
 				<Header />
 				{children}
-				<Footer />
+				{/* <Footer /> */}
 			</body>
 		</html>
 	)
